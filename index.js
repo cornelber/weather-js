@@ -1,0 +1,1 @@
+displayCurrentWeather('București');
