@@ -4,11 +4,11 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
-
 </div>
+
 The Weather App project is a project within the **Web Development** course from **ITSchool**, which as a functionality aims to show the weather forecast, the current weather and others using the [OpenWeather](https://openweathermap.org/) API for the city selected by the visitor.
 
-**[Demo Live !](https://www.example.com)**  👈
+**[Demo Live !](https://bc-project-weather-js.netlify.app/)**  👈
 
 ## Table of contents
 * About
@@ -22,7 +22,7 @@ The application is simple, the basic features that need to be included is to dis
 
 The API I used was the free plan of the [open weather map](https://openweathermap.org/price), with a limit of 60 calls per minute and 1,000,000 calls per month.
 
-You can see the demo [here](https://www.example.com) 👈
+You can see the demo [here](https://bc-project-weather-js.netlify.app/) 👈
 
 ## Freatures
 
