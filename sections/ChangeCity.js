@@ -3,15 +3,17 @@ const timisoara = document.querySelector('.dropdown-menu .timisoara');
 const oradea = document.querySelector('.dropdown-menu .oradea');
 const arad = document.querySelector('.dropdown-menu .arad');
 const sibiu = document.querySelector('.dropdown-menu .sibiu');
-
+ 
 const updateCurrentCity = (city) => {
     const currentCityElement = document.querySelector('.current-city');
     currentCityElement.innerHTML = city;
 }
-
+// Here can add functions when city is changed
 const updateWeather = (city) => {
     updateCurrentCity(city);
     displayCurrentWeather(city);
+    displayWeatherForecast(city);
+    localStorage.setItem('city', city);
 };
 
 const chooseCity = (city, cityFound) => {
