@@ -89,3 +89,7 @@ header {
 .scroll-to-top:hover span{
   color: #101d42;
 }
+
+.weather-forecast-box > *{
+  flex: 1;
+}
