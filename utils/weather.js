@@ -3,5 +3,5 @@ const getWeatherLink = (iconCode) => {
 }
 
 const windToKmPerHour = (metersPerSeconds) => {
-    return (metersPerSeconds * 3600) / 1000;
+    return ((metersPerSeconds * 3600) / 1000).toFixed(2);
 }
