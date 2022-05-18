@@ -5,7 +5,6 @@ const displayCurrentWeather = (city) => {
         response.json().then(data => {
             const currentWeatherElement = document.querySelector('.current-weather')
 
-            // Object distraction
             const { name, dt, main, weather, wind } = data;
 
             const day = getDayOfTheWeek(dt);
@@ -16,7 +15,6 @@ const displayCurrentWeather = (city) => {
             const weatherDescription = weather[0].description;
             const windSpeed = windToKmPerHour(wind.speed);
     
-
             currentWeatherElement.innerHTML = `
             <div class="px-3">
                 <div class="fs-2 mb-2"><strong>${name}</strong></div>
