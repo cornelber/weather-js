@@ -28,13 +28,6 @@ You can see the demo [here](https://bc-project-weather-js.netlify.app/) 👈
 * Save last search in local/session storage
 * Responsive app
 
-| TO DO            | IN PROGRESS         | DONE                 |
-| ---------------- | ------------------- | -------------------- |
-|                  |                     | Show Current Weather |
-|                  | Show 5 Day Forecast |                      |
-| Save Last Search |                     |                      |
-|                  |   Responsive App    |                      |
-
 ## Languages and Tools
 
 * Javascript ES6
