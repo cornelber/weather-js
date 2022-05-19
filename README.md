@@ -2,6 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cornelber/project-weather-js?color=FFEE62&style=for-the-badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e508ec1-ed55-4994-b7d1-487ddd8eb5b7/deploy-status)](https://app.netlify.com/sites/bc-project-weather-js/deploys)
 
 The Weather App project is a project within the **Web Development** course from **ITSchool**, which as a functionality aims to show the weather forecast, the current weather and others using the [OpenWeather](https://openweathermap.org/) API for the city selected by the visitor.
 
