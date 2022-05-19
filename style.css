@@ -93,3 +93,9 @@ header {
 .weather-forecast-box > *{
   flex: 1;
 }
+
+.city-list{
+  height: 400px;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+}
