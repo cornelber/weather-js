@@ -27,6 +27,7 @@ You can see the demo [here](https://bc-project-weather-js.netlify.app/) 👈
 * Show current weather
 * Show 5 day / 3 hour forecast data
 * Save last search in local/session storage
+* Scroll to top button
 * Responsive app
 
 ## Languages and Tools
